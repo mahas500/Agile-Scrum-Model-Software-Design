@@ -1,0 +1,6 @@
+
+id3 12:30 Red Red 1
+id3 12:31 Red Red 0
+id3 12:32 Red Green 0
+id3 12:32 Green Amber Red 1
+id3 12:32 Red Red 0

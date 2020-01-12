@@ -1,0 +1,9 @@
+ID Time From To EVASOverride
+id1 10:32 Red Red 0
+id1 10:32 Green Amber Red 1
+id1 10:32 Red Green 1
+id2 11:31 Red Red 0
+id1 10:32 Green Red 0
+id3 12:31 Red Red 0
+id3 12:32 Green Amber Red 1
+id3 12:32 Red Red 0
